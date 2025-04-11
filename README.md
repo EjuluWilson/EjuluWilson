@@ -11,7 +11,7 @@
         <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
       </td>
       <td align="center">
-        <strong>Full-stack AI/ML engineer specializing in geospatial analytics, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
+          <strong>Full-stack AI/ML engineer specializing in end-to-end ML systems, AI automation,  LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
