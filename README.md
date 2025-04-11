@@ -55,9 +55,3 @@ I specialize in:
 - 📨 [Email](mailto:wejulu@andrew.cmu.edu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ejuluwilson/)
 - 🧠 [GitHub](https://github.com/EjuluWilson)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EjuluWilson&show_icons=true&theme=default&hide_title=true&count_private=true" alt="Wilson's GitHub stats" />
-</p>
