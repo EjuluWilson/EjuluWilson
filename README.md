@@ -174,8 +174,21 @@
   <p>
     I'm passionate about building AI systems that solve meaningful problems and always open to collaborating on<br />interesting projects at the intersection of AI, infrastructure, and real-world applications.
   </p>
-  <strong>📧 <a href="mailto:wejulu@andrew.cmu.edu">wejulu@andrew.cmu.edu</a></strong> | 
-  <strong>📞 (+250) 798287850</strong>
+<div align="center">
+  <a href="https://ug.linkedin.com/in/ejuluwilson">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wejulu@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href=["https://github.com/EjuluWilson">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/256759007991">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <p>📞 (+250) 798287850</p>
+</div>
 </div>
 
 <div align="center">
