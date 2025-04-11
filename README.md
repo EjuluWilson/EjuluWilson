@@ -135,28 +135,6 @@
   </tr>
 </table>
 
-## <div align="center">👨‍💼 Professional Experience</div>
-
-<div align="left">
-  <h3>🔍 Data Scientist | Geo-Information Communication Ltd | Dec 2022 - Aug 2024</h3>
-  <ul>
-    <li>Spearheaded data analysis for a World Bank-funded energy project, surpassing goals by cleaning and verifying 1.55M records, 7% above the 1.45M target, using Python, SQL, PostGIS and GeoPandas.</li>
-    <li>Developed GIS-driven geo-dashboards, visualizing key data for stakeholders, and pinpointing high-potential areas for customer acquisition.</li>
-  </ul>
-
-  <h3>🧠 Machine Learning Engineer | Kyambogo University GIS Lab | July 2022 - Nov 2022</h3>
-  <ul>
-    <li>Trained a TensorFlow-based CNN to extract building footprints from satellite imagery, achieving a 96.2% F1 score, a foundational step for national geocoding.</li>
-    <li>Innovated Python scripts to prototype hierarchical addressing for buildings from an academic concept, setting the stage for potential nationwide adoption.</li>
-  </ul>
-
-  <h3>🛰️ Machine Learning Engineer | Triaxis Geomatics | Oct 2021 - June 2022</h3>
-  <ul>
-    <li>Preprocessed 400GB+ of Sentinel-1 satellite imagery for UNDP's land-change detection and refactored a Python Docker app for Sentinel-1 image compatibility.</li>
-    <li>Developed a time-series model with a 98.4% accuracy rate in detecting wetland degradation on ground truthing, reducing field visit costs by 27%.</li>
-  </ul>
-</div>
-
 ## <div align="center">🌟 Focus Areas & Research Interests</div>
 
 <div align="center">
