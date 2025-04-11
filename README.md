@@ -7,7 +7,7 @@
 <div align="center">
   <p>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" /> 
-    <strong>Full-stack AI/ML engineer building data-driven systems that actually work for people — not just algorithms.</strong>
+    <strong>Full-stack AI/ML engineer specializing in geospatial analytics, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
   </p>
 </div>
 
@@ -30,11 +30,12 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 MSc AI Engineering (Carnegie Mellon University)</li>
-        <li>🧠 Specializing in machine learning, data science & AI system design</li>
-        <li>📊 Experienced with geospatial AI, satellite imagery analysis & ML deployment</li>
-        <li>🌍 Developing solutions for energy, urban planning & environmental monitoring</li>
-        <li>🚀 Currently building a Jupyter-integrated AI assistant for ML workflows</li>
+        <li>🔥 MSc AI Engineering (Carnegie Mellon University)</li>
+        <li>🔥 Specialized in applied ML, AI system architecture & scalable infrastructure</li>
+        <li>🔥 Expert in geospatial ML with 3+ years experience in satellite imagery analysis</li>
+        <li>🔥 Passionate about building production-ready MLOps pipelines & intelligent agents</li>
+        <li>🔥 Focused on AI applications for energy, climate & sustainable development</li>
+        <li>🔥 Currently developing AI agents that enhance ML engineering workflows</li>
       </ul>
     </td>
     <td width="40%">
@@ -53,8 +54,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-00C4CC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LLMs-00FFFF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/NLP-0EE6B7?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFBD59?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </div>
 
 ### <div align="center">Programming & Development</div>
@@ -93,40 +97,40 @@
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="100" />
       <br />
-      <h3>Conversational Notebook Assistant</h3>
-      <p>Developing a Jupyter-integrated AI assistant to streamline ML workflows via natural language interaction.</p>
+      <h3>JupyterBuddy: ML Workflow Assistant</h3>
+      <p>LangGraph-powered AI assistant integrated with Jupyter that automates data analysis, code generation, and ML workflow orchestration via natural language. <b>Tech:</b> LangChain, OpenAI, React</p>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="100" />
       <br />
       <h3>AI-Powered Incident Detection</h3>
-      <p>Built real-time anomaly detection and severity-based incident classifiers on Kubernetes, reducing false alarms by 30%.</p>
+      <p>Built real-time anomaly detection and severity-based incident classifiers on Kubernetes, reducing false alarms by 30%. <b>Tech:</b> TensorFlow, K8s, Prometheus</p>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100" />
       <br />
-      <h3>Wetland Degradation Detection</h3>
-      <p>Developed a time-series model with a 98.4% accuracy rate in detecting wetland degradation using Sentinel-1 satellite imagery.</p>
+      <h3>Sub-Saharan Urban Digital Twin</h3>
+      <p>Predictive mobility simulation for African cities integrating real-time transport data with ML-powered forecasting models. <b>Tech:</b> Python, GeoPandas, TensorFlow</p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
       <br />
-      <h3>Standalone Chatbot & Copilot</h3>
-      <p>Built an AI-powered weather assistant that retrieves real-time data and auto-fills web forms using OpenAI LLMs.</p>
+      <h3>Wetland Degradation Detector</h3>
+      <p>Developed a time-series model with a 98.4% accuracy rate in detecting wetland degradation using Sentinel-1 satellite imagery, reducing field visit costs by 27%. <b>Tech:</b> PyTorch, Docker</p>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" width="100" />
       <br />
       <h3>Emergency Social Network (ESN)</h3>
-      <p>Collaborated in a team of five to develop a disaster-response app with Node.js and React.js, enabling real-time resource sharing during crises.</p>
+      <p>Disaster-response application enabling real-time resource sharing and coordination during crises. <b>Tech:</b> Node.js, React.js, MongoDB</p>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
       <br />
       <h3>Building Footprint Extraction</h3>
-      <p>Trained a TensorFlow-based CNN to extract building footprints from satellite imagery, achieving a 96.2% F1 score.</p>
+      <p>CNN-based system for automated extraction of building footprints from satellite imagery, achieving a 96.2% F1 score. <b>Tech:</b> TensorFlow, QGIS</p>
     </td>
   </tr>
 </table>
@@ -153,6 +157,21 @@
   </ul>
 </div>
 
+## <div align="center">🌟 Focus Areas & Research Interests</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_Agents_&_LLM_Workflows-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MLOps_&_Production_Systems-0194E2?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Geospatial_AI_&_Remote_Sensing-00C4CC?style=flat-square&logo=map&logoColor=white" alt="Geospatial ML" />
+  <img src="https://img.shields.io/badge/AI_for_Energy_&_Sustainability-00A67E?style=flat-square&logo=lightbulb&logoColor=white" alt="Energy AI" />
+  <img src="https://img.shields.io/badge/ML_Developer_Experience-FFBD59?style=flat-square&logo=tools&logoColor=black" alt="Dev Tools" />
+  <img src="https://img.shields.io/badge/Notebook_Based_Copilots-412991?style=flat-square&logo=jupyter&logoColor=white" alt="Notebook Copilots" />
+</div>
+
+<div align="center">
+  <p><i>Currently researching: Techniques for building trustworthy, observable and deterministic LLM agent workflows for AI/ML practitioners.</i></p>
+</div>
+
 ## <div align="center">🎓 Education</div>
 
 <table align="center">
@@ -174,23 +193,45 @@
   </tr>
 </table>
 
-## <div align="center">🌟 Core Interests</div>
+## <div align="center">💼 What I Bring to the Table</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_for_Energy_Sector-00A67E?style=flat-square&logo=lightbulb&logoColor=white" alt="Energy AI" />
-  <img src="https://img.shields.io/badge/Geospatial_Machine_Learning-00C4CC?style=flat-square&logo=map&logoColor=white" alt="Geospatial ML" />
-  <img src="https://img.shields.io/badge/LLM_Agents-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="LLM Agents" />
-  <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/AI_Development_Tools-FFBD59?style=flat-square&logo=tools&logoColor=black" alt="Dev Tools" />
-  <img src="https://img.shields.io/badge/Environmental_Monitoring-589632?style=flat-square&logo=tree&logoColor=white" alt="Environmental Monitoring" />
-</div>
+<table align="center" border="none">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 AI Engineering</h3>
+      <ul align="left">
+        <li>End-to-end ML system design</li>
+        <li>LLM prompt engineering</li>
+        <li>Agent architecture & reasoning</li>
+        <li>Scalable training pipelines</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Technical Leadership</h3>
+      <ul align="left">
+        <li>ML infrastructure design</li>
+        <li>ML workflow optimization</li>
+        <li>Production system architecture</li>
+        <li>Cross-functional collaboration</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Domain Expertise</h3>
+      <ul align="left">
+        <li>Geospatial analytics</li>
+        <li>Energy sector applications</li>
+        <li>Environmental monitoring</li>
+        <li>Developing region solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## <div align="center">🤝 Let's Connect</div>
 
 <div align="center">
   <p>
-    Interested in AI for development, geospatial ML, or innovative tools for AI engineers?<br />
-    Let's collaborate and build solutions that make a difference!
+    I'm passionate about building AI systems that solve meaningful problems and always open to collaborating on<br />interesting projects at the intersection of AI, infrastructure, and real-world applications.
   </p>
   <strong>📧 <a href="mailto:wejulu@andrew.cmu.edu">wejulu@andrew.cmu.edu</a></strong> | 
   <strong>📞 (+250) 798287850</strong>
