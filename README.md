@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0EE6B7&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there%2C+I'm+Wilson+Ejulu.;AI+%7C+ML+Engineer+%7C+Full-Stack+Model+Developer" alt="Typing SVG" />
 </h1>
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" /> 
   <strong>Building intelligent systems that work for people, not just data.</strong>
@@ -20,8 +18,6 @@
     <img src="https://img.shields.io/badge/HuggingFace-Wilson-yellow?style=flat-square&logo=huggingface&logoColor=black" />
   </a>
 </p>
-
----
 
 ## 🧬 Who I Am
 
