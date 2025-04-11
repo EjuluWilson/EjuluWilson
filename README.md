@@ -5,10 +5,19 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" /> 
-    <strong>Full-stack AI/ML engineer specializing in AI systems, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
-  </p>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
+      </td>
+      <td align="center">
+        <strong>Full-stack AI/ML engineer specializing in geospatial analytics, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -108,25 +117,26 @@
       <h3>AI-Powered Incident Detection</h3>
       <p>Built real-time anomaly detection and severity-based incident classifiers on Kubernetes, reducing false alarms by 30%. <b>Tech:</b> TensorFlow, K8s, Prometheus</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100" />
-      <br />
-      <h3>Sub-Saharan Urban Digital Twin</h3>
-      <p>Predictive mobility simulation for African cities integrating real-time transport data with ML-powered forecasting models. <b>Tech:</b> Python, GeoPandas, TensorFlow</p>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
       <br />
       <h3>Wetland Degradation Detector</h3>
       <p>Developed a time-series model with a 98.4% accuracy rate in detecting wetland degradation using Sentinel-1 satellite imagery, reducing field visit costs by 27%. <b>Tech:</b> PyTorch, Docker</p>
     </td>
+
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" width="100" />
       <br />
       <h3>Emergency Social Network (ESN)</h3>
       <p>Disaster-response application enabling real-time resource sharing and coordination during crises. <b>Tech:</b> Node.js, React.js, MongoDB</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" width="100" />
+      <br />
+      <h3>Plaid Shell (plaidsh)</h3>
+      <p>Developed a fully-featured Linux shell in C with built-in commands, I/O redirection, piping, and interactive editing features like command history and tab completion. <b>Tech:</b> C, Unix System Calls, GNU Readline</p>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
