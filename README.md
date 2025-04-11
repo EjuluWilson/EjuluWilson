@@ -7,7 +7,7 @@
 <div align="center">
   <p>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" /> 
-    <strong>Full-stack AI/ML engineer specializing in geospatial analytics, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
+    <strong>Full-stack AI/ML engineer specializing in AI systems, LLM agents, and ML infrastructure — building systems that solve real-world problems at scale.</strong>
   </p>
 </div>
 
@@ -135,21 +135,6 @@
   </tr>
 </table>
 
-## <div align="center">🌟 Focus Areas & Research Interests</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Agents_&_LLM_Workflows-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MLOps_&_Production_Systems-0194E2?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Geospatial_AI_&_Remote_Sensing-00C4CC?style=flat-square&logo=map&logoColor=white" alt="Geospatial ML" />
-  <img src="https://img.shields.io/badge/AI_for_Energy_&_Sustainability-00A67E?style=flat-square&logo=lightbulb&logoColor=white" alt="Energy AI" />
-  <img src="https://img.shields.io/badge/ML_Developer_Experience-FFBD59?style=flat-square&logo=tools&logoColor=black" alt="Dev Tools" />
-  <img src="https://img.shields.io/badge/Notebook_Based_Copilots-412991?style=flat-square&logo=jupyter&logoColor=white" alt="Notebook Copilots" />
-</div>
-
-<div align="center">
-  <p><i>Currently researching: Techniques for building trustworthy, observable and deterministic LLM agent workflows for AI/ML practitioners.</i></p>
-</div>
-
 ## <div align="center">🎓 Education</div>
 
 <table align="center">
@@ -167,40 +152,6 @@
       <p>Bachelor of Science in Computer Engineering</p>
       <p>Relevant Courses: Statistics, Calculus, Data Structures and Algorithms</p>
       <p><strong>2016-2022</strong></p>
-    </td>
-  </tr>
-</table>
-
-## <div align="center">💼 What I Bring to the Table</div>
-
-<table align="center" border="none">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧠 AI Engineering</h3>
-      <ul align="left">
-        <li>End-to-end ML system design</li>
-        <li>LLM prompt engineering</li>
-        <li>Agent architecture & reasoning</li>
-        <li>Scalable training pipelines</li>
-      </ul>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Technical Leadership</h3>
-      <ul align="left">
-        <li>ML infrastructure design</li>
-        <li>ML workflow optimization</li>
-        <li>Production system architecture</li>
-        <li>Cross-functional collaboration</li>
-      </ul>
-    </td>
-    <td align="center" width="33%">
-      <h3>📊 Domain Expertise</h3>
-      <ul align="left">
-        <li>Geospatial analytics</li>
-        <li>Energy sector applications</li>
-        <li>Environmental monitoring</li>
-        <li>Developing region solutions</li>
-      </ul>
     </td>
   </tr>
 </table>
