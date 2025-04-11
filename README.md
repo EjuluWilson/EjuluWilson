@@ -44,7 +44,6 @@
       <ul>
         <li>🔥 MSc AI Engineering (Carnegie Mellon University)</li>
         <li>🔥 Specialized in applied ML, AI system architecture & scalable infrastructure</li>
-        <li>🔥 Expert in geospatial ML with 3+ years experience in satellite imagery analysis</li>
         <li>🔥 Passionate about building production-ready MLOps pipelines & intelligent agents</li>
         <li>🔥 Currently developing AI agents that enhance ML engineering workflows</li>
       </ul>
