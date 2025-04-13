@@ -66,15 +66,13 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/LangChain-00C4CC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LLMs-00FFFF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/NLP-0EE6B7?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/HuggingFace-FFBD59?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </div>
 
 ### <div align="center">Programming & Development</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/fastai-00A98F?style=for-the-badge&logo=fastai&logoColor=white" alt="fastai" />
+  <img src="https://img.shields.io/badge/FirstApi-00A98F?style=for-the-badge&logo=FirstApi&logoColor=white" alt="FirstApi" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
