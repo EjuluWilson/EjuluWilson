@@ -151,14 +151,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/fYMF8sDLpI0raXYBJO/giphy.gif" width="100" />
-      <h3>Carnegie Mellon University</h3>
+      <img src="https://github.com/EjuluWilson/EjuluWilson/blob/main/cmu.png?raw=true" width="100" />      <h3>Carnegie Mellon University</h3>
       <p>MSc in Engineering Artificial Intelligence</p>
       <p>Specializations: Machine Learning, Data Analytics, and AI System Design</p>
       <p><strong>Expected May 2025</strong></p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" />
+      <img src="https://github.com/EjuluWilson/EjuluWilson/blob/main/mak.jpeg" width="100" />
       <h3>Makerere University</h3>
       <p>Bachelor of Science in Computer Engineering</p>
       <p>Relevant Courses: Statistics, Calculus, Data Structures and Algorithms</p>
